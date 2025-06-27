@@ -1,5 +1,6 @@
 # Pharmacy Management System 
 This is a console application that simulates the basic operations of a pharmacy. It allows users to manage a list of drugs, place orders, and track daily sales. The system is designed to categorize drugs into cosmetics, prescription drugs, and others.
+
 ![image](https://github.com/A-Alashker/Pharmacy-Project/blob/main/1.png?raw=true)
 
 ## How it works?
